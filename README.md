@@ -16,7 +16,6 @@ I enjoy playing chess in my free time which led to me to create a desktop app wi
   <img src='https://github.com/ejrcarr/ejrcarr/raw/main/images/chessboard.png' width="300" height="250"> <br />
 </p>
 
-<h3>Wordle</h3>
 
 
 <h2>Interests</h3>
