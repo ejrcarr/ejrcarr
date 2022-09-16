@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='images/banner.png' alt="banner"></img>
+<img src='./images/banner.png' alt="banner"></img>
 
 <!--
 **ejrcarr/ejrcarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
