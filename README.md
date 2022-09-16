@@ -8,6 +8,13 @@ My name is <strong>Evan Carr</strong> and I am a student at <a href='https://www
 <h2>Projects</h3>
 <h3>Chess Engine AI</h4>
 I enjoy playing chess in my free time which led to me to create a desktop app with <em>Java/Swing/MySQL</em>. Since most chess platforms have paywalls, I decided to create my own application to analyze my past games. It included a customized engine and scraped over 2,680,000+ past chess games from previous professional games to use as book moves. It was my first real application so I tried working according to SOLID principles. The design was modeled after chess.com's website and the GUI works similar as well. The GUI follows chess procedure, highlights legal moves for a clicked piece, indicates taken pieces, and displays chess notation of game. The engine uses a minimax algorithm based on piece value, mobility, development, king safety, and pawn structure using object-oriented programming. 
+<br />
+<br />
+
+<!--![](images/chessboard.png)-->
+<p align='center'>
+  <img src='https://github.com/ejrcarr/ejrcarr/raw/main/images/chessboard.png' width="300" height="250"> <br />
+</p>
 
 <h3>Wordle</h3>
 
