@@ -3,7 +3,7 @@
 <h1><strong>Hi! :wave:</strong></h1> 
 
 <h2>About</h3>
-My name is <strong>Evan Carr</strong> and I am a student at <a href='https://www.elon.edu/'>Elon University</a>. I am a junior Computer Science major with a minor in Mathematics. 
+My name is <h3><strong>Evan Carr</strong></h3> and I am a student at <a href='https://www.elon.edu/'>Elon University</a>. I am a junior Computer Science major with a minor in Mathematics. 
 
 <h2>Projects</h3>
 <h3>Chess Engine AI</h4>
