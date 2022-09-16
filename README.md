@@ -1,5 +1,9 @@
 ![](banner.png)
 
+###Hi there! 
+
+My name is <strong>Evan Carr</strong> and I am a student at <a href='https://www.elon.edu/'>Elon University</a>. I am a Junior Computer Science major with a minor in Mathematics.  
+
 <!--
 **ejrcarr/ejrcarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
