@@ -1,7 +1,14 @@
 <!--![Frame 1](https://github.com/ejrcarr/ejrcarr/assets/110308975/8193404b-938d-495f-b1cf-704954ae9886)-->
 <!--<img src='https://github.com/ejrcarr/ejrcarr/assets/110308975/033ad2ce-4c21-40b0-8984-31c675d5aaab' width="100%"/>-->
-<p align="center"><img src='https://github.com/ejrcarr/ejrcarr/assets/110308975/4c6850eb-8268-4175-b5eb-7e2909395248' width="75%"/></p>
 
+<p align="center">
+  <!--<img src='https://github.com/ejrcarr/ejrcarr/assets/110308975/4c6850eb-8268-4175-b5eb-7e2909395248' width="75%"/>-->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ejrcarr/ejrcarr/assets/110308975/4c6850eb-8268-4175-b5eb-7e2909395248">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/ejrcarr/ejrcarr/assets/110308975/ee8895b9-362a-4215-831c-ed949b13bec3">
+      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/ejrcarr/ejrcarr/assets/110308975/4c6850eb-8268-4175-b5eb-7e2909395248">
+    </picture>
+</p>
 
 
 <h1><strong>Hi! :wave:</strong></h1> 
