@@ -1,4 +1,5 @@
-![](banner.png)
+![Frame 1](https://github.com/ejrcarr/ejrcarr/assets/110308975/8193404b-938d-495f-b1cf-704954ae9886)
+
 
 <h1><strong>Hi! :wave:</strong></h1> 
 
