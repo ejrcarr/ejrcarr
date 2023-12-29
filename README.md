@@ -22,7 +22,7 @@ I enjoy playing chess in my free time which led to me to create a desktop app wi
 Anything computer science interests me, particularly <strong>web development</strong>. Early August I began working on <a href='https://www.theodinproject.com/'>The Odin Project</a> and was super fascinated by the process. Recently, I have been studying various tech stacks outside of class but currently I am learning <em>Java/SpringBoot/REST/Hibernate/MySQL/AngularJS.</em>
 <br />
 <br />
-Other than coding, I like collecting sneakers or hanging out with my two dogs. I also enjoy relaxing girlfriend watching TV. I used to play video games a lot so you could catch me on steam a good bit of the day.   
+Other than coding, I like collecting sneakers or hanging out with my two dogs. I also enjoy relaxing with my girlfriend watching TV.
 
 <!--
 **ejrcarr/ejrcarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
