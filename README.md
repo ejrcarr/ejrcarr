@@ -25,9 +25,17 @@ We deliver secure and authenticated access to Elon University's resources by lev
 
 **Repository**: https://github.com/elonsoc/ods</p>
 
-<p align='center'>
+<!--<p align='center'>
   <img src='https://github.com/ejrcarr/ejrcarr/assets/110308975/3b277e62-b73b-4fd9-ac7b-7da789b4c306' width="750"> <br />
+</p>-->
+<p align='center'>
+    <picture>
+      <source width="750px" media="(prefers-color-scheme: dark)" srcset="https://github.com/ejrcarr/ejrcarr/assets/110308975/ae1417de-3461-4650-8838-2daf2f4e252c">
+      <source width="750px" media="(prefers-color-scheme: light)" srcset="https://github.com/ejrcarr/ejrcarr/assets/110308975/56843489-02cd-41e0-8986-51626ea5ead1">
+      <img width="750px" alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/ejrcarr/ejrcarr/assets/110308975/ae1417de-3461-4650-8838-2daf2f4e252c">
+    </picture>
 </p>
+
 
 <h3>Personal Website</h3>
 <p>This project essentially acts as an online resume at the moment. It is build on Next.js with CSS modules, deployed to Vercel, Cloudflare as CDN, and uses Google Analytics for tracking/SEO.</p>
@@ -35,7 +43,11 @@ We deliver secure and authenticated access to Elon University's resources by lev
 **Link**: [ejrcarr.com](https://www.ejrcarr.com/)
 
 <p align='center'>
-<img width="750" alt="Evan Carr's Personal Website" src="https://github.com/ejrcarr/ejrcarr/assets/110308975/bc3104b4-a864-43ea-a7a2-96ce88e3b707">
+    <picture>
+      <source width="750px" media="(prefers-color-scheme: dark)" srcset="https://github.com/ejrcarr/ejrcarr/assets/110308975/2f132e19-02c3-4b69-bb30-ff41cd441e74">
+      <source width="750px" media="(prefers-color-scheme: light)" srcset="https://github.com/ejrcarr/ejrcarr/assets/110308975/bc3104b4-a864-43ea-a7a2-96ce88e3b707">
+      <img width="750px" alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/ejrcarr/ejrcarr/assets/110308975/2f132e19-02c3-4b69-bb30-ff41cd441e74">
+    </picture>
 </p>
 
 
@@ -48,9 +60,8 @@ We deliver secure and authenticated access to Elon University's resources by lev
 **Tech Stack**: Java, Swing, JDBC, MySQL
 
 <p align='center'>
-  <img src='https://github.com/ejrcarr/ejrcarr/raw/main/images/chessboard.png' width="300" height="250"> <br />
+  <img src='https://github.com/ejrcarr/ejrcarr/assets/110308975/c3aefdfb-eb3a-4dcf-9559-40a190bb33e8' width="750"> <br />
 </p>
-
 
 
 <h2>Interests</h3>
