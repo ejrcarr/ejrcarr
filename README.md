@@ -1,6 +1,6 @@
 <!--![Frame 1](https://github.com/ejrcarr/ejrcarr/assets/110308975/8193404b-938d-495f-b1cf-704954ae9886)-->
 <!--<img src='https://github.com/ejrcarr/ejrcarr/assets/110308975/033ad2ce-4c21-40b0-8984-31c675d5aaab' width="100%"/>-->
-<img src='https://github.com/ejrcarr/ejrcarr/assets/110308975/052ec37a-83cc-40f3-a611-f8f4d6b58d4b' width="100%"/>
+<p align="center"><img src='https://github.com/ejrcarr/ejrcarr/assets/110308975/4c6850eb-8268-4175-b5eb-7e2909395248' width="75%"/></p>
 
 
 
